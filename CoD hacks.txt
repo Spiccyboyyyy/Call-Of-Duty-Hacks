@@ -1,0 +1,20 @@
+EnCore Link: https://cabconmodding.com/threads/black-ops-1-multiplayer-encorev8-gsc-open-source-menu-by-cabcon-pc-ps3-verison.13/
+
+Current Ver: en.core.five/ve2928/workshop.steam.dll
+
+IP: 205.76.200.229
+Type: IPv4I
+
+Encore source(old): https://cabconmodding.com/jssource/sourcecode
+Old Java: https://github.com/encore/oldjs/sourcecode
+
+Cracked ports:
+
+Crack NT - 6.174.155.113
+Cracked TDM - 127.58.150.160
+Nuke69 - 249.41.161.31
+Eldoro - 152.76.122.130
+RenDiv - 227.78.117.153
+PirCoD - 229.163.205.122
+
+Notepad ++ Link: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.4/npp.7.8.4.Installer.x64.exe
